@@ -14,11 +14,11 @@ bool solve()
 int main()
 {
     if(solve()==true){
-	
-	}
-	else{
-	
-	}
+    
+    }
+    else{
+
+    }
 	
     return 0;
 }
