@@ -1,4 +1,4 @@
-# 概要
-* atcoderの過去の問題の提出したもの
-* ライブラリ(自分用)
+# Description
+* Location of source code submitted in the past
+* Personal library source code
 
