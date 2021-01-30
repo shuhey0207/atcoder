@@ -1,6 +1,6 @@
-import sys
-import os
-import shutil
+import sys # argv
+import os # path
+import shutil # copy
 
 LEVEL = ['a','b','c','d','e','f']
 
