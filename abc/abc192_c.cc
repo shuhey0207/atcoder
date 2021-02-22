@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// 整数xの各桁をvectorの各要素に入れて返す
 vector<int> to_vector(int x){
     vector<int> ret;
 
